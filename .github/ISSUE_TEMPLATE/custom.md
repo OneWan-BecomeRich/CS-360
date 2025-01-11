@@ -17,3 +17,6 @@ As a [user role], I want [feature or function] so that [goal or benefit].
 
 ### Additional Details
 - Any additional context, diagrams, or screenshots that help explain the feature.
+
+
+Changes
